@@ -35,8 +35,8 @@ GeneratorFunction.prototype.nths = function (values, length) {
  * @returns  returns the values of the nth provided
  *
  */
-GeneratorFunction.prototype.nth = function (value) {
-  if (!Array.isArray(value)) {
+GeneratorFunction.prototype.nth = function (values) {
+  if (!Array.isArray(values)) {
        while (--values > 0) {
          this.next();
        }
