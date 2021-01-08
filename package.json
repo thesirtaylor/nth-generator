@@ -1,6 +1,6 @@
 {
   "name": "nth-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "helper function for generator functions, calls the nth yield value or an array of the nth yield values.",
   "main": "index.js",
   "scripts": {
