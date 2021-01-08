@@ -1,0 +1,26 @@
+{
+  "name": "nth-generator",
+  "version": "1.0.0",
+  "description": "helper function for generator functions, calls the nth yield value or an array of the nth yield values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesirtaylor/nth-generator.git"
+  },
+  "keywords": [
+    "generator",
+    "nth-value",
+    "generator function",
+    "opensource"
+  ],
+  "author": "AJAYI olatunji O",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thesirtaylor/nth-generator/issues"
+  },
+  "homepage": "https://github.com/thesirtaylor/nth-generator#readme",
+  "dependencies": {}
+}
